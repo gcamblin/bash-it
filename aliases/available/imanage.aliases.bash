@@ -1,5 +1,5 @@
 cite 'about-alias'
-about-alias 'Gary's iManage commands'
+about-alias 'iManage commands'
 
 # Aliases
 alias lo5='sudo openconnect --verbose --user gcamblin https://206.25.45.10:4443'
